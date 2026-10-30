@@ -6,4 +6,4 @@ GitHub Pages: https://iptvproplusVOL.github.io/iptvproplus/
 
 İndirme: https://iptvproplusVOL.github.io/iptvproplus/indir/
 
-APK, v36 GitHub Release ekinde yayımlanır.
+APK, v37 GitHub Release ekinde yayımlanır.
